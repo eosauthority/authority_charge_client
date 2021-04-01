@@ -10,7 +10,7 @@ The code is simple, a handful of vanilla javascript files that are very readable
 
 - This node script sends your transaction to the API to estimate how much CPU/NET it will cost.
 
-- Two additional actions are inserted to your transaction within the chargeSignPush function of client.js
+- __Two additional actions__ are inserted to your transaction within the chargeSignPush function of client.js
 
   First: Payment transaction to cover for the costs (Pay as you go)
   
