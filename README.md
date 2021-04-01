@@ -1,6 +1,7 @@
 ## Authority Charge system for DApps and Power users
 Pay as you go model for transactions on EOS. You don't have to mess up with PowerUps or other costs. 
-The costs are estimated based on network conditions. This is a pure pay as you go model for power users. For questions go to [EOS Authority Telegram](https://t.me/eosauthority).
+The costs are estimated based on network conditions (typically around 0.0020 EOS - lower than a typical powerup Tx). 
+This is a pure pay as you go model for power users. For questions go to [EOS Authority Telegram](https://t.me/eosauthority).
 
 ## How it works
 The code is simple, a handful of vanilla javascript files that are very readable. You should have a good understanding of what the code does as it requires your private key to function.
